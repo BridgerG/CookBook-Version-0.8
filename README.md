@@ -6,7 +6,7 @@
 
 ## You need all three files to run this code in a java coding application.... but once you do that it is very Intuitive to use.
 
-## 	I am very proud of this code below for the simple reason that it probably saved 200 lines of code by existing
+## I am very proud of this code below for the simple reason that it probably saved 200 lines of code by existing
 
     public void saveProgress () {
 
@@ -25,3 +25,5 @@
 			  ioe.printStackTrace(); 
 		  }
 	  }
+
+### The reasons not to use this code right now are nuemorous with the important parts being, it is still in ruff shape, the UI is ugly as sin, and the code is insanely confusing because I had to drastically change what the project had to do in order to work at the last second. But just wait until I fully finish this beauty, then it will be the best thing on the Market BABY.
